@@ -1,6 +1,6 @@
 streamlit
 langchain-core
-langgraph[sqlite]
+langgraph[sqlite]==0.6.5
 google-genai
 python-dotenv
 httpx
