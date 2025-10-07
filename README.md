@@ -1,5 +1,6 @@
 # LangGraph-Assistant
-<img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/ebe4f4e7-600b-4cf2-be30-4ea0b72e6911" />
+<img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/7ff16f2e-ac62-48be-b56b-a1bafbb81a1f" />
+
 
 
 Conversational AI Chatbot with LangGraph & Streamlit
