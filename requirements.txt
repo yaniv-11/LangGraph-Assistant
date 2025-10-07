@@ -1,8 +1,7 @@
-﻿streamlit
+streamlit
 langchain-core
-langgraph
+langgraph[sqlite]
 google-genai
 python-dotenv
 httpx
-
 tenacity
